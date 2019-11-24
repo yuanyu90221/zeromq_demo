@@ -9,4 +9,4 @@ test('server_test', async()=>{
     } catch (err) {
         console.log(err);
     }
-}, 30000);
+});
