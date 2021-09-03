@@ -15,6 +15,6 @@
     "zeromq": "^5.2.0"
   },
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^27.1.0"
   }
 }
